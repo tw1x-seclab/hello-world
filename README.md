@@ -4,6 +4,10 @@
 
 :poop: MICROS*** SUX !!! :poop:
 
+:penguin: rules !!!
+
+![Alt text]( ./images/evil_2.png?raw=true "Evil Shit")
+![Alt text]( ./images/evil_2.png?raw=true "Evil Shit")
 ![Alt text]( ./images/evil_2.png?raw=true "Evil Shit")
 ![Alt text]( ./images/evil_2.png?raw=true "Evil Shit")
 ![Alt text]( ./images/evil_2.png?raw=true "Evil Shit")
