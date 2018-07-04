@@ -8,6 +8,10 @@
 
 :penguin: rules !!!
 
+:heart: the shell
+
+there is no :cloud: it's just another :computer:
+
 
 ![Alt text]( ./images/evil_2.png?raw=true "Evil Shit")
 ![Alt text]( ./images/evil_1.png?raw=true "Evil Shit")
